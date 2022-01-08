@@ -13,6 +13,7 @@ yay -S python-beautifulsoup4 tk python-pillow
 
 How To Run:
 ```bash
+git clone https://github.com/RohanKP1/keather.git
 cd keather/
 python keather.py
 ```
