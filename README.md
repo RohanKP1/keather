@@ -1,5 +1,6 @@
 # keather
-[![Screenshot-from-2022-01-08-20-53-26.png](https://i.postimg.cc/76z6PfnV/Screenshot-from-2022-01-08-20-53-26.png)](https://postimg.cc/qhk0jBYh)
+[![Screenshot-from-2022-01-08-20-56-50.png](https://i.postimg.cc/zDSzdmtV/Screenshot-from-2022-01-08-20-56-50.png)](https://postimg.cc/SjRbsPph)
+
 A simple weather app.
 -----
 ***This is currently not finished.***
@@ -16,4 +17,4 @@ cd keather/
 python keather.py
 ```
 
-***A menu entry can be made of this and icon is in the assets folder.***
+**A menu entry can be made of this and icon is in the assets folder.**
